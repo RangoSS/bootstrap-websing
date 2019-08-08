@@ -46,7 +46,7 @@
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link font-weight-bold" href="#">Find Us</a>
+        <a class="nav-link font-weight-bold" href="contact.php">Find Us</a>
       </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">

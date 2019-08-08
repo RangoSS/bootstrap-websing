@@ -73,7 +73,7 @@ Compared to crewed aircraft, UAVs were originally used for missions too "dull, d
 <div>
 
 <?php
- //include "foot.php";
+ include "foot.php";
 ?>
 </div>
 

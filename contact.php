@@ -1,8 +1,7 @@
 <?php
- include "headers.php";
+ include "hedds.php";
 ?>
-<br><br>
-<br><br>
+<br>
 
 
 <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
